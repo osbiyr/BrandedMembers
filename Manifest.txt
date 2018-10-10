@@ -1,0 +1,14 @@
+Main-Class: q.BrandedMembers
+Class-Path: \C:\Users\User\Desktop\BM\javax.mail-1.6.0.jar\ 
+\C:\Users\User\Desktop\BM\popper.js-1.14.1.jar\
+\C:\Users\User\Desktop\BM\javax.activation-1.2.0.jar\
+\C:\Users\User\Desktop\BM\bootstrap-4.1.0.jar\
+\C:\Users\User\Desktop\BM\jquery-3.0.0.jar\
+
+
+
+
+
+
+
+
